@@ -1,6 +1,6 @@
 # Patcher use
 ## Prerequesites
-Acquire `Patcher.class`, and ensure you are in an environment with the `diff` command, and the ability to run shells scripts and Java programs.
+Acquire `Patcher.class` (usually with `javac Patcher.java`), and ensure you are in an environment with the `diff` command, and the ability to run shells scripts and Java programs.
 
 ## Instructions
 1. Locate and cd to the folder parent to the git repositories `FTCVision` and `ftc_app`. If this folder does not exist, clone the two repos.
